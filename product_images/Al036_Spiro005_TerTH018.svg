@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='300px' height='300px' viewBox='0 0 300 300'>
+<!-- END OF HEADER -->
+<path class='bond-0 atom-0 atom-1' d='M 104.7,151.5 L 113.9,158.0' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 113.9,158.0 L 123.0,164.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 107.9,147.0 L 117.1,153.5' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-0 atom-0 atom-1' d='M 117.1,153.5 L 126.2,160.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-1 atom-1 atom-2' d='M 124.6,162.2 L 122.0,189.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-1 atom-10' d='M 124.6,162.2 L 135.4,157.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-9 atom-1 atom-10' d='M 135.4,157.3 L 146.2,152.4' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-2 atom-2 atom-3' d='M 122.0,189.9 L 96.8,201.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 96.8,201.4 L 74.2,185.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-3 atom-3 atom-4' d='M 90.2,203.5 L 74.4,192.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-29 atom-9 atom-3' d='M 94.2,229.0 L 96.8,201.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-4 atom-4 atom-5' d='M 74.2,185.3 L 49.0,196.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 49.0,196.9 L 46.4,224.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-5 atom-5 atom-6' d='M 54.1,201.5 L 52.3,220.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-7' d='M 46.4,224.5 L 34.4,230.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-6 atom-6 atom-7' d='M 34.4,230.0 L 22.4,235.5' style='fill:none;fill-rule:evenodd;stroke:#00CC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-7 atom-6 atom-8' d='M 46.4,224.5 L 69.0,240.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-8 atom-8 atom-9' d='M 69.0,240.5 L 94.2,229.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-8 atom-8 atom-9' d='M 70.4,233.8 L 88.1,225.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-10 atom-10 atom-11' d='M 150.3,146.1 L 151.4,134.6' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-10 atom-10 atom-11' d='M 151.4,134.6 L 152.4,123.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-11 atom-11 atom-12' d='M 152.4,123.1 L 177.7,111.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-12 atom-12 atom-13' d='M 177.7,111.6 L 200.3,127.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-24 atom-12 atom-25' d='M 177.7,111.6 L 161.9,88.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-30 atom-29 atom-12' d='M 205.3,109.3 L 177.7,111.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-13 atom-13 atom-14' d='M 200.3,127.6 L 211.6,123.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-13 atom-13 atom-14' d='M 211.6,123.8 L 222.9,120.0' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-13 atom-13 atom-14' d='M 205.4,131.7 L 213.3,129.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-13 atom-13 atom-14' d='M 213.3,129.1 L 221.2,126.4' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-31 atom-24 atom-13' d='M 200.5,150.7 L 200.4,139.2' style='fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-31 atom-24 atom-13' d='M 200.4,139.2 L 200.3,127.6' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-14 atom-14 atom-15' d='M 230.0,123.4 L 239.7,136.6' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-15 atom-15 atom-16' d='M 239.8,145.7 L 233.4,154.7' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-15 atom-15 atom-16' d='M 233.4,154.7 L 227.0,163.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-15 atom-15 atom-16' d='M 233.3,145.2 L 228.9,151.5' style='fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-15 atom-15 atom-16' d='M 228.9,151.5 L 224.4,157.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-16 atom-16 atom-17' d='M 227.0,163.7 L 235.8,189.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-23 atom-16 atom-24' d='M 227.0,163.7 L 215.4,160.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-23 atom-16 atom-24' d='M 215.4,160.0 L 203.8,156.4' style='fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-17 atom-17 atom-18' d='M 235.8,189.9 L 217.5,210.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-17 atom-17 atom-18' d='M 237.3,196.7 L 224.4,211.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-32 atom-22 atom-17' d='M 263.0,195.4 L 235.8,189.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-18 atom-18 atom-19' d='M 217.5,210.7 L 226.3,237.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-19 atom-19 atom-20' d='M 226.3,237.0 L 253.5,242.5' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-19 atom-19 atom-20' d='M 231.5,232.4 L 250.5,236.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-20 atom-20 atom-21' d='M 253.5,242.5 L 271.9,221.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-21 atom-21 atom-22' d='M 271.9,221.7 L 263.0,195.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-21 atom-21 atom-22' d='M 265.3,219.5 L 259.1,201.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-22 atom-22 atom-23' d='M 263.0,195.4 L 270.3,187.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-22 atom-22 atom-23' d='M 270.3,187.1 L 277.6,178.8' style='fill:none;fill-rule:evenodd;stroke:#00CC00;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-25 atom-25 atom-26' d='M 161.9,88.7 L 173.8,63.7' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-26 atom-26 atom-27' d='M 173.8,63.7 L 185.5,62.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-26 atom-26 atom-27' d='M 185.5,62.8 L 197.2,61.8' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-27 atom-27 atom-28' d='M 204.8,66.3 L 211.0,75.3' style='fill:none;fill-rule:evenodd;stroke:#FF0000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-27 atom-27 atom-28' d='M 211.0,75.3 L 217.2,84.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path class='bond-28 atom-28 atom-29' d='M 217.2,84.3 L 205.3,109.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path  class='atom-0' d='M 98.4 146.2
+Q 98.4 144.3, 99.3 143.3
+Q 100.3 142.2, 102.0 142.2
+Q 103.8 142.2, 104.7 143.3
+Q 105.6 144.3, 105.6 146.2
+Q 105.6 148.1, 104.7 149.2
+Q 103.7 150.3, 102.0 150.3
+Q 100.3 150.3, 99.3 149.2
+Q 98.4 148.1, 98.4 146.2
+M 102.0 149.4
+Q 103.2 149.4, 103.9 148.6
+Q 104.5 147.8, 104.5 146.2
+Q 104.5 144.7, 103.9 143.9
+Q 103.2 143.1, 102.0 143.1
+Q 100.8 143.1, 100.2 143.9
+Q 99.5 144.7, 99.5 146.2
+Q 99.5 147.8, 100.2 148.6
+Q 100.8 149.4, 102.0 149.4
+' fill='#FF0000'/>
+<path  class='atom-7' d='M 13.6 236.3
+Q 13.6 234.3, 14.5 233.3
+Q 15.5 232.3, 17.2 232.3
+Q 18.8 232.3, 19.7 233.4
+L 19.0 234.0
+Q 18.3 233.2, 17.2 233.2
+Q 16.0 233.2, 15.4 234.0
+Q 14.8 234.8, 14.8 236.3
+Q 14.8 237.8, 15.4 238.6
+Q 16.1 239.4, 17.3 239.4
+Q 18.2 239.4, 19.2 238.9
+L 19.5 239.7
+Q 19.1 240.0, 18.5 240.2
+Q 17.9 240.3, 17.2 240.3
+Q 15.5 240.3, 14.5 239.3
+Q 13.6 238.2, 13.6 236.3
+' fill='#00CC00'/>
+<path  class='atom-7' d='M 20.6 231.8
+L 21.7 231.8
+L 21.7 240.2
+L 20.6 240.2
+L 20.6 231.8
+' fill='#00CC00'/>
+<path  class='atom-10' d='M 148.1 146.8
+L 150.7 150.9
+Q 150.9 151.4, 151.3 152.1
+Q 151.7 152.8, 151.8 152.9
+L 151.8 146.8
+L 152.8 146.8
+L 152.8 154.6
+L 151.7 154.6
+L 149.0 150.1
+Q 148.7 149.6, 148.3 148.9
+Q 148.0 148.3, 147.9 148.1
+L 147.9 154.6
+L 146.9 154.6
+L 146.9 146.8
+L 148.1 146.8
+' fill='#0000FF'/>
+<path  class='atom-10' d='M 153.8 146.8
+L 154.8 146.8
+L 154.8 150.1
+L 158.8 150.1
+L 158.8 146.8
+L 159.9 146.8
+L 159.9 154.6
+L 158.8 154.6
+L 158.8 151.0
+L 154.8 151.0
+L 154.8 154.6
+L 153.8 154.6
+L 153.8 146.8
+' fill='#0000FF'/>
+<path  class='atom-14' d='M 224.8 114.9
+L 227.4 119.0
+Q 227.6 119.4, 228.0 120.2
+Q 228.5 120.9, 228.5 121.0
+L 228.5 114.9
+L 229.5 114.9
+L 229.5 122.7
+L 228.4 122.7
+L 225.7 118.2
+Q 225.4 117.6, 225.0 117.0
+Q 224.7 116.4, 224.6 116.2
+L 224.6 122.7
+L 223.6 122.7
+L 223.6 114.9
+L 224.8 114.9
+' fill='#0000FF'/>
+<path  class='atom-15' d='M 241.3 137.1
+L 243.9 141.3
+Q 244.2 141.7, 244.6 142.4
+Q 245.0 143.2, 245.0 143.2
+L 245.0 137.1
+L 246.0 137.1
+L 246.0 145.0
+L 245.0 145.0
+L 242.2 140.4
+Q 241.9 139.9, 241.5 139.3
+Q 241.2 138.7, 241.1 138.5
+L 241.1 145.0
+L 240.1 145.0
+L 240.1 137.1
+L 241.3 137.1
+' fill='#0000FF'/>
+<path  class='atom-23' d='M 278.3 174.9
+Q 278.3 172.9, 279.2 171.9
+Q 280.2 170.9, 281.9 170.9
+Q 283.5 170.9, 284.4 172.0
+L 283.7 172.6
+Q 283.0 171.8, 281.9 171.8
+Q 280.7 171.8, 280.1 172.6
+Q 279.5 173.4, 279.5 174.9
+Q 279.5 176.4, 280.1 177.2
+Q 280.8 178.0, 282.0 178.0
+Q 282.9 178.0, 283.9 177.5
+L 284.2 178.4
+Q 283.8 178.6, 283.2 178.8
+Q 282.6 178.9, 281.9 178.9
+Q 280.2 178.9, 279.2 177.9
+Q 278.3 176.8, 278.3 174.9
+' fill='#00CC00'/>
+<path  class='atom-23' d='M 285.3 170.4
+L 286.4 170.4
+L 286.4 178.8
+L 285.3 178.8
+L 285.3 170.4
+' fill='#00CC00'/>
+<path  class='atom-24' d='M 198.3 158.1
+Q 198.4 158.1, 198.8 158.2
+Q 199.1 158.4, 199.5 158.5
+Q 200.0 158.6, 200.4 158.6
+Q 201.1 158.6, 201.5 158.2
+Q 202.0 157.9, 202.0 157.2
+Q 202.0 156.8, 201.7 156.5
+Q 201.5 156.3, 201.2 156.1
+Q 200.9 156.0, 200.3 155.8
+Q 199.6 155.6, 199.2 155.4
+Q 198.8 155.2, 198.5 154.8
+Q 198.2 154.4, 198.2 153.6
+Q 198.2 152.7, 198.9 152.1
+Q 199.5 151.4, 200.9 151.4
+Q 201.8 151.4, 202.8 151.9
+L 202.6 152.7
+Q 201.6 152.3, 200.9 152.3
+Q 200.1 152.3, 199.7 152.7
+Q 199.3 153.0, 199.3 153.5
+Q 199.3 153.9, 199.5 154.2
+Q 199.7 154.4, 200.0 154.6
+Q 200.4 154.7, 200.9 154.9
+Q 201.6 155.1, 202.0 155.3
+Q 202.5 155.6, 202.8 156.0
+Q 203.1 156.5, 203.1 157.2
+Q 203.1 158.3, 202.3 158.9
+Q 201.6 159.5, 200.4 159.5
+Q 199.7 159.5, 199.2 159.3
+Q 198.6 159.2, 198.0 158.9
+L 198.3 158.1
+' fill='#CCCC00'/>
+<path  class='atom-27' d='M 197.8 61.5
+Q 197.8 59.6, 198.8 58.6
+Q 199.7 57.5, 201.5 57.5
+Q 203.2 57.5, 204.1 58.6
+Q 205.1 59.6, 205.1 61.5
+Q 205.1 63.4, 204.1 64.5
+Q 203.2 65.6, 201.5 65.6
+Q 199.7 65.6, 198.8 64.5
+Q 197.8 63.4, 197.8 61.5
+M 201.5 64.7
+Q 202.7 64.7, 203.3 63.9
+Q 203.9 63.1, 203.9 61.5
+Q 203.9 60.0, 203.3 59.2
+Q 202.7 58.4, 201.5 58.4
+Q 200.3 58.4, 199.6 59.2
+Q 199.0 59.9, 199.0 61.5
+Q 199.0 63.1, 199.6 63.9
+Q 200.3 64.7, 201.5 64.7
+' fill='#FF0000'/>
+</svg>
